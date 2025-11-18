@@ -1,0 +1,12 @@
+mp3 için veri toplama aşamaları:
+ilk olarak veri toplama aşamasında kullanılacak yöntem belirlenir(anket)
+daha sonra projeye uygun olarak ankette kullanılacak sorular seçilir.
+ankete katılacak kişiler belirlenir.
+anket sonuçları incelenip yorumlanarak kaydedilir.
+
+
+mp3 veri toplama detayları:
+projemiz için oluşturduğumuz mini anketimizde insanların yenilikçi müziklere ne kadar açık olduklarının tespit edilmesini amaçladık ve bu amaç doğrultusunda 
+49 farklı kişiye aynı soruları sorup sonuçları raporladık.
+raporda da belirttiğimiz üzere anketin özeti insanlar çoğunlula yeniliğe kapalı gibi dursalar da yine de onlara sunulan nimetleri deneme eğilimdedir.Yani 
+kendi başlarına yeni çıkan şarıları takip etmektense karşılarına rastgele çıkan (biri tarafından önerilen veya sosyal medyada karşılaştıkları)şarkıları deneme yönünde cevaplar vermişlerdir.
