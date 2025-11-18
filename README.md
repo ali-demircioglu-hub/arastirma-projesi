@@ -5,7 +5,7 @@ araştırmanın amacı: bu araştırmada modern müziğin günümüzde neden sı
 ### MP3 - Veri Toplama Tasarımı
 -yöntem: (anket)
 -veri kaynağı: (google forms)
--kayıt sayısı: (49 satır)
+-kayıt sayısı: (57 satır)
 
 proje katılımcıları: Görkem DAL 
                      Ahmet Kadir ÖZEK
