@@ -6,7 +6,8 @@ araştırmanın amacı: bu araştırmada modern müziğin günümüzde neden sı
 -yöntem: (anket)
 -veri kaynağı: (google forms)
 -kayıt sayısı: (57 satır)
-
+#### MP4 - anket sonuçları
+-anket sonuçlarının belirlenip anelizinin yapılması.(pandas)
 proje katılımcıları: Görkem DAL 
                      Ahmet Kadir ÖZEK
                      Ali DEMİRCİOĞLU
